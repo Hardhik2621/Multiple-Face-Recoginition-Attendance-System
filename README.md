@@ -2,9 +2,11 @@ Automatic Attendance using Face recognition
 
 Automatic Attendance using face recognition is a software that provide automatic attendance using videos and photos.
 IDE:
+
 Python Version : 3.8.5
 
 Database Used:
+
 Database: SQLite3
 
 Required library installation:
@@ -20,6 +22,7 @@ pip install Eel #0.14.0
 Login Credential:
 
 username: admin
+
 password: 12345
 
 
